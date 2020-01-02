@@ -9,4 +9,4 @@ pipelines:
         type: Bash
         execution:
           onExecute:
-            - echo “running CI for master”
+            - echo “running CI for daniel”
